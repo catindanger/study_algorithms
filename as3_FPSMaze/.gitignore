@@ -1,0 +1,16 @@
+bin/
+bin-debug/
+bin-release/
+bin-release-temp/
+*.apk
+*.ipa
+*.air
+
+.settings/
+.metadata/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
